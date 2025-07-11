@@ -1,0 +1,9 @@
+0 Hello
+1 Help
+2 Love You
+3 Nice
+4 No
+5 Sad
+6 Sorry
+7 Thanks
+8 Yes
