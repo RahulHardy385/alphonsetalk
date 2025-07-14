@@ -1,0 +1,15 @@
+0 Eat
+1 Hello
+2 Help
+3 Home
+4 I Love You
+5 Nice
+6 No
+7 Peace
+8 Please
+9 Sad
+10 Sorry
+11 Stop
+12 Thanks
+13 Wait
+14 Yes
